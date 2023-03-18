@@ -1,2 +1,2 @@
 # Git
-to manager Source Code Version
+to manage Source Code Version
